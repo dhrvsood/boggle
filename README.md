@@ -1,2 +1,2 @@
-# boggle
+# Boggle
 Java GUI Boggle
